@@ -9,6 +9,6 @@ String version=resource.getString("version");%>
 
 <html>
 <body>
-<h2>Welcome to  Flipkart</h2>
+<h2>Welcome to  Flipkart on 28- July-2020</h2>
 </body>
 </html>
