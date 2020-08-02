@@ -9,6 +9,6 @@ String version=resource.getString("version");%>
 
 <html>
 <body>
-<h2>Welcome to  Flipkart</h2>
+<h2>Welcome to  amazon</h2>
 </body>
 </html>
